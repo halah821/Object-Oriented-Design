@@ -1,2 +1,2 @@
 # Object-Oriented-Design
-Design Principles course solutions - Software Design and Architecture Specialization - University of Alberta 
+Design Principles course solutions - <a href="https://www.coursera.org/learn/object-oriented-design" rel="nofollow">Oriented Object Design</a>, and part 1 of the capstone project from the specialization <a href="https://www.coursera.org/specializations/software-design-architecture" rel="nofollow">Software Design and Architecture offered by University of Alberta</a> on <a href="https://www.coursera.org" rel="nofollow">Coursera</a>.</p>
